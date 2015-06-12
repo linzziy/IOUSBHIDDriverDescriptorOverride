@@ -12,3 +12,6 @@ PLATFORMS
 DEPENDENCIES
   libusb
   plist
+
+BUNDLED WITH
+   1.10.3
